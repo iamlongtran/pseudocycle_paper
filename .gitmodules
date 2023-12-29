@@ -1,0 +1,3 @@
+[submodule "LA_scripts"]
+	path = LA_scripts
+	url = git@github.com:LAnAlchemist/Pseudocycle_small_molecule_binder.git
